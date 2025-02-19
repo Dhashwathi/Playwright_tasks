@@ -6,3 +6,5 @@
 *Day 3:* Completed playwright assertions,its types, handling inputs, various checkboxes.
 
 *Day 4:* Attached Auto suggestion box in task 1(amazon cart) and learnt some css,xpath creation.
+
+*Day 5:* Worked on websites small parts like iframes,webtables,calender,mouse hover & keyboard actions,drag and drop functionalities
