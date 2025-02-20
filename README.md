@@ -7,4 +7,6 @@
 
 *Day 4:* Attached Auto suggestion box in task 1(amazon cart) and learnt some css,xpath creation.
 
-*Day 5:* Worked on websites small parts like iframes,webtables,calender,mouse hover & keyboard actions,drag and drop functionalities
+*Day 5:* Worked on websites small parts like iframes,webtables,calender,mouse hover & keyboard actions,drag and drop functionalities.
+
+*Day 6:* Learnt how to handle upload files, hooks, Grouping tests, capturing videos & screenshots, tags, trace viewer, annotations.
