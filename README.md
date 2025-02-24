@@ -12,3 +12,5 @@
 *Day 6:* Learnt how to handle upload files, hooks, Grouping tests, capturing videos & screenshots, tags, trace viewer, annotations.
 
 *Day 7:* Completed POM,handling multiple pages & browsers,reporters, generate allure reports.(Ongoing API testing)
+
+*Day 8:* Worked on simple API testing using playwright and concetrated on Xpath creation.
